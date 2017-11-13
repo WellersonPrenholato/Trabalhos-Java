@@ -1,0 +1,11 @@
+//Sript Veiculo_BD
+
+CREATE DATABASE Veiculo_BD;
+USE Veiculo_BD;
+
+CREATE TABLE Veiculo (
+   placa VARCHAR(10) NOT NULL,
+   modelo VARCHAR(30),
+   cor VARCHAR(20),
+   PRIMARY KEY (placa)
+);
