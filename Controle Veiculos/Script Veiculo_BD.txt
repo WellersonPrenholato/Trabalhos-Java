@@ -1,4 +1,4 @@
-//Sript Veiculo_BD
+//Script Veiculo_BD
 
 CREATE DATABASE Veiculo_BD;
 USE Veiculo_BD;
