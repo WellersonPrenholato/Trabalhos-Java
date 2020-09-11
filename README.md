@@ -1,5 +1,5 @@
 ## 🔗 Aplicações básicas [Java] 👨🏻‍💻
-Alguns trabalhos elaborados utilizando a linguagem de programação Java, uma forma de passar o tempo e adquirir aprendizado. 😉 <br> 
+Alguns trabalhos desenvolvidos utilizando a linguagem de programação Java, uma forma de passar o tempo e adquirir aprendizado. 😉 <br> 
 
 - ☎️ [Agenda Telefônica](https://github.com/WellersonPrenholato/works-java/tree/master/Agenda%20Telefonica)
 
